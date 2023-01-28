@@ -1,0 +1,17 @@
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\bin\Debug\net6.0\Business.dll
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\bin\Debug\net6.0\Business.pdb
+C:\Users\gergo.halasz\source\repos\PersonalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
